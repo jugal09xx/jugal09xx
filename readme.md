@@ -5,6 +5,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jugal09xx&layout=compact&theme=dark&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
+<div display="flex">
 <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'/>
 <img src='https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white'/>
 <img src='https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white'/>
@@ -18,3 +19,4 @@
 <img src='https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white'/>
 <img src='https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white'/>
 <img src='https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white'/>
+</div>
