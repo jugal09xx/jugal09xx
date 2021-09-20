@@ -2,7 +2,7 @@
 
 # Hello Folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-## I'm a software developer and an open source enthusiast. I'm from India, living in Chennai and currently pursuing a bachelor's degree in computer science. Check out my <a href="https://jugallad.netlify.app">website.</a>
+I'm a software developer and an open source enthusiast. I'm from India, living in Chennai and currently pursuing a bachelor's degree in computer science. Check out my <a href="https://jugallad.netlify.app">website.</a>
 
 [![Jugal's GitHub stats](https://github-readme-stats.vercel.app/api?username=jugal09xx&show_icons=true&theme=dark)
 ](https://github.com/anuraghazra/github-readme-stats)
@@ -24,3 +24,17 @@
 <img src='https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white'/>
 <img src='https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white'/>
 </div>
+
+
+<!-- Actual text -->
+
+You can find me on [![LinkedIn][3.2]][3].
+
+<!-- Icons -->
+
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/Martin_Heinz_
+[2]: https://www.linkedin.com/in/jugallad/
