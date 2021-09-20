@@ -1,3 +1,4 @@
+<div style={{alignItems: 'center', margin: 'auto'}}>
 ![profile image](https://i.ibb.co/cFYtswY/profile.png)
 
 # Hello Folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
@@ -24,16 +25,4 @@ I'm a software developer and an open source enthusiast. I'm from India, living i
 <img src='https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white'/>
 <img src='https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white'/>
 </div>
-
-
-<!-- Actual text -->
-
-You can find me on [![LinkedIn][3.2]][3].
-
-<!-- Icons -->
-
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[3]: https://www.linkedin.com/in/jugallad/
+</div>
