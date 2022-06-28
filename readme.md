@@ -2,7 +2,7 @@
 
 ![profile image](https://i.ibb.co/cFYtswY/profile.png)
 
-# Hello Folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello Folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px">
 
 I'm a software developer and an open source enthusiast. I'm from India, living in Chennai and currently pursuing a bachelor's degree in computer science. You can check out my website <a href="https://jugallad.netlify.app">here.</a>
 
