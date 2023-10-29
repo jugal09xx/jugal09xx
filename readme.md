@@ -1,1 +1,4 @@
-<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
+<div align=center>
+    <img align=top width="400px" src="https://github.com/rajatdiptabiswas/rajatdiptabiswas/blob/main/github-metrics.svg"/>
+    <img align=top width="400px" src="https://github.com/rajatdiptabiswas/rajatdiptabiswas/blob/main/github-metrics-plugin-stars.svg"/>
+<div>
